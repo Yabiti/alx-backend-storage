@@ -1,4 +1,4 @@
-user = input("what's your name? ")
+sentence = "welcome to my beauty"
 
-user = user.capitalize()
-print("Hello", user, "welcome to alx")
+get = sentence.center(50, "*")
+print(get)
