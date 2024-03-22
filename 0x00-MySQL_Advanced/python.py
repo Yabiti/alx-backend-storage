@@ -1,4 +1,4 @@
-x = "i like football"
+x = "WELCOME TO MY WORLD"
 
-str = x.replace("football", "baseball")
-print(str)
+txt = x.lower()
+print(txt)
