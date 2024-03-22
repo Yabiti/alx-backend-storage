@@ -1,3 +1,4 @@
-txt = 'y\ta\tb\te\tt\ts\te'
-result = txt.expandtabs(2)
-print(result)
+str = "HEllo, world"
+
+pos = str.find('world')
+print(pos)
