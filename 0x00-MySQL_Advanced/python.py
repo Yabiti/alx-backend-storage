@@ -1,4 +1,4 @@
-sentence = " look who is beautiful "
+txt = "Hello, welcome to my world"
 
-get = sentence.center(50, "&")
-print(get)
+x = txt.endswith("my world")
+print(x)
