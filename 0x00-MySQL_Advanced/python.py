@@ -1,2 +1,2 @@
-txt1 = "my name is {fname}, i'm {age}".format(fname='john', age=36)
+txt1 = "Hey my name is {0}, i'm {1}".format("john", 36)
 print(txt1)
