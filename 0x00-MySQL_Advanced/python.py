@@ -1,4 +1,4 @@
 user = input("what's your name? ")
 
 user = user.capitalize()
-print(user)
+print("Hello", user , "welcome to alx hub")
