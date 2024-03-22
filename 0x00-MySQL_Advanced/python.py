@@ -1,5 +1,4 @@
-txt = "     banana     "
+x = "i love many things"
 
-x = txt.rstrip()
-
-print(x)
+int = x.replace('many', "sexy")
+print(int)
