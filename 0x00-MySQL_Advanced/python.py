@@ -1,4 +1,4 @@
-x = "welcome to my world!"
+x = "misctests"
 
-str = x.removeprefix('welcome')
+str = x.removesuffix('tests')
 print(str)
