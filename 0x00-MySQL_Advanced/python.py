@@ -1,4 +1,4 @@
-x = "WELCOME TO MY WORLD"
+txt = "          banana        "
 
-txt = x.lower()
-print(txt)
+x = txt.strip()
+print(x)
