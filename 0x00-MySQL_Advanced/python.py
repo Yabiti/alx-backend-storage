@@ -1,4 +1,4 @@
-txt = "welcome to the jungle"
+txt = "1, 2, 3"
 
-x  = txt.split()
+x  = txt.split(', ')
 print(x)
