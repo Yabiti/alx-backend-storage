@@ -1,4 +1,4 @@
-user = input("what's your name? ")
+sentence  = "everything id temporary"
 
-user = user.capitalize()
-print("Hello", user , "welcome to alx hub")
+new_string =  sentence.center(24, "*")
+print(new_string)
