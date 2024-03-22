@@ -1,9 +1,4 @@
-x = "nigga"
-v = "niiga2"
-b = "my_nigga"
-c = "my name"
+x = "welcome to my world!"
 
-print(x. isidentifier())
-print(v. isidentifier())
-print(b. isidentifier())
-print(c. isidentifier())
+str = x.removeprefix('welcome')
+print(str)
