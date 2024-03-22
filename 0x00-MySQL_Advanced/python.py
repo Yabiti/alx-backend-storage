@@ -1,4 +1,4 @@
-x = "welcomeee"
+x = "this is cs50"
 
-str = x.removesuffix('ee')
+str = x.replace(" ", "...")
 print(str)
