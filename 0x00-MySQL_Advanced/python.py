@@ -1,4 +1,4 @@
-sentence = "welcome to my beauty"
+txt = "hello, my sweetiee"
 
-get = sentence.center(50, "*")
+get = txt.endswith("sweetie")
 print(get)
