@@ -1,4 +1,3 @@
-txt = "hello, my sweetiee"
-
-get = txt.endswith("sweetie")
-print(get)
+txt = "123\txyz\tabc"
+result = txt.expandtabs()
+print(result)
