@@ -1,4 +1,4 @@
-str = "HEllo, world"
+str = 'come on'
 
-pos = str.find('world')
+pos = str.find("on")
 print(pos)
