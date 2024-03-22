@@ -1,4 +1,4 @@
-x = "misctests"
+x = "welcomeee"
 
-str = x.removesuffix('tests')
+str = x.removesuffix('ee')
 print(str)
