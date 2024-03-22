@@ -1,3 +1,9 @@
-txt = "xompany 12"
-x = txt.isalnum()
-print(x)
+x = "nigga"
+v = "niiga2"
+b = "my_nigga"
+c = "my name"
+
+print(x. isidentifier())
+print(v. isidentifier())
+print(b. isidentifier())
+print(c. isidentifier())
