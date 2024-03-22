@@ -1,4 +1,5 @@
-txt = "          banana        "
+txt = "     banana     "
 
-x = txt.strip()
+x = txt.rstrip()
+
 print(x)
