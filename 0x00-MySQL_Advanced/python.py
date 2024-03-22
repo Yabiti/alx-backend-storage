@@ -1,4 +1,4 @@
-x = "i love many things"
+x = "this is css50"
 
-int = x.replace('many', "sexy")
+int = x.replace(" ", "...")
 print(int)
