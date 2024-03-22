@@ -1,2 +1,6 @@
-txt1 = "Hey my name is {0}, i'm {1}".format("john", 36)
+txt1 = "Hey my name is {fname}, i'm {age}".format(fname='yabetse', age=25).capitalize()
+txt2 = "Hey my name is {0}, i'm {1}".format("john", 36)
+txt3 = "Hey my name is {}, i'm {}".format("lay", 34)
 print(txt1)
+print(txt2)
+print(txt3)
