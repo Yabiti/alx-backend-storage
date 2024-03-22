@@ -1,4 +1,4 @@
-txt = "Hello, welcome to my world."
+user = input("what's your name? ")
 
-x = txt.endswith("my world")
-print(x)
+user = user.capitalize()
+print("Hello", user, "welcome to alx")
