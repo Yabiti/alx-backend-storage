@@ -1,4 +1,4 @@
-x = "i love to do things"
+txt = "welcome to the jungle"
 
-int = x.replace("to do", "seeing")
-print(int)
+x  = txt.split()
+print(x)
