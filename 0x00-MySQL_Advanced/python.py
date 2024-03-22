@@ -1,4 +1,4 @@
-x = "this is cs50"
+x = "i like football"
 
-str = x.replace(" ", "...")
+str = x.replace("football", "baseball")
 print(str)
