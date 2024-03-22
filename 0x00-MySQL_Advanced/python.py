@@ -1,4 +1,4 @@
-txt = "1, 2, 3"
+x = "Hello , welcome to my world"
 
-x  = txt.split(', ')
-print(x)
+txt = x.startswith("hello")
+print(txt)
