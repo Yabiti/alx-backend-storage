@@ -1,4 +1,4 @@
-sentence  = "everything is temporary"
+sentence = "look who is beautiful"
 
-new_string =  sentence.center(70, "/")
-print(new_string)
+get = sentence.center(50, "&")
+print(get)
