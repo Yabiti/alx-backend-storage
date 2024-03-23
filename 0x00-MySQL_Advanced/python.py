@@ -1,4 +1,4 @@
-x = "Hello , welcome to my world"
+x = 'this is my last speech'
 
-txt = x.startswith("hello")
-print(txt)
+str = x.capitalize()
+print(str)
