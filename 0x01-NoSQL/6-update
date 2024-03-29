@@ -1,0 +1,12 @@
+// Update
+db.school.update(
+    { name: "Holberton school" }, // Filter criteria: documents with name="Holberton school"
+    {
+        $set: {
+            address: "972 Mission street" // Set the "address" attribute to "972 Mission street"
+        }
+    },
+    {
+        multi: true // Update multiple documents that match the filter
+    }
+)
